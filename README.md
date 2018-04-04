@@ -1,2 +1,4 @@
-# bookstore
-It's a app which is build in Node Backend and Angular 1 for front end.
+# Bookstore
+It's small app for book store create in MEAN. 
+Very helpful for MEAN stack beginners. 
+You will get help in creating apis and crud operation in MEAN.
